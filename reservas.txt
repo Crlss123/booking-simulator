@@ -1,0 +1,12 @@
+Nombre en las reservas: dfgfd
+Contacto en las reservas: 34534
+
+Reserva 1
+Nombre del AirBnB: La chosa
+Ubicacion del AirBnB: Hermosillo
+Limite de huespedes: 2
+Precio por dia: $200
+Fecha de Check In: 6/6/2024
+Fecha de Check Out: 7/7/2024
+Total a pagar (Impuesto diario del %5): $21700
+
